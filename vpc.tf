@@ -7,4 +7,3 @@ resource "aws_vpc" "my_app" {
     Environment = "${terraform.workspace}"
   }
 }
-mayank
