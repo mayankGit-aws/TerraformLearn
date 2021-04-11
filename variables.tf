@@ -7,5 +7,5 @@ variable "vpc_cidr" {
 variable "region" {
   description = "Choose region for your stack"
   type        = "string"
-  default     = "us-east-1"
+  default     = "ap-south-1"
 }
